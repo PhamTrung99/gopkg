@@ -8,9 +8,9 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 
-	"github.com/phamtrung/gopkg/apperror"
-	"github.com/phamtrung/gopkg/model"
-	"github.com/phamtrung/gopkg/utils"
+	"github.com/phamtrung99/gopkg/apperror"
+	"github.com/phamtrung99/gopkg/model"
+	"github.com/phamtrung99/gopkg/utils"
 )
 
 func Auth(secretKeySign string, skipper middleware.Skipper, isRefresh bool) func(next echo.HandlerFunc) echo.HandlerFunc {

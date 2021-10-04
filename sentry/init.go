@@ -8,7 +8,7 @@ import (
 	"github.com/getsentry/sentry-go"
 	"github.com/sirupsen/logrus"
 
-	"github.com/phamtrung/gopkg/logger"
+	"github.com/phamtrung99/gopkg/logger"
 )
 
 func init() {

@@ -5,8 +5,8 @@ import (
 
 	"gorm.io/gorm"
 
-	"github.com/phamtrung/gopkg/apperror"
-	"github.com/phamtrung/gopkg/model"
+	"github.com/phamtrung99/gopkg/apperror"
+	"github.com/phamtrung99/gopkg/model"
 )
 
 var (

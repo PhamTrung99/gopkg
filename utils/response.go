@@ -7,10 +7,10 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/phamtrung/gopkg/apperror"
-	"github.com/phamtrung/gopkg/logger"
-	"github.com/phamtrung/gopkg/model"
-	"github.com/phamtrung/gopkg/sentry"
+	"github.com/phamtrung99/gopkg/apperror"
+	"github.com/phamtrung99/gopkg/logger"
+	"github.com/phamtrung99/gopkg/model"
+	"github.com/phamtrung99/gopkg/sentry"
 )
 
 type response struct{}

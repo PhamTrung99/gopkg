@@ -7,7 +7,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/phamtrung/gopkg/model"
+	"github.com/phamtrung99/gopkg/model"
 )
 
 type TokenType string

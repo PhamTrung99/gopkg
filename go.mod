@@ -1,4 +1,4 @@
-module github.com/phamtrung/gopkg
+module github.com/phamtrung99/gopkg
 
 go 1.17
 

@@ -12,7 +12,7 @@ import (
 	gormlogger "gorm.io/gorm/logger"
 	"gorm.io/gorm/utils"
 
-	"github.com/phamtrung/gopkg/model"
+	"github.com/phamtrung99/gopkg/model"
 )
 
 type GormLogger struct {
