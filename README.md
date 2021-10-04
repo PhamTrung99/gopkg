@@ -1,2 +1,1 @@
-# Husol PKG
-Common packages
+This is some useful golang package.
